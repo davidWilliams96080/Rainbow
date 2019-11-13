@@ -42,7 +42,7 @@
                             <outlet property="delegate" destination="nTr-hB-L5j" id="Vn6-Bs-REc"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" title="RaInBoW" id="2U0-H1-aau"/>
+                    <navigationItem key="navigationItem" title="RaInBoW" largeTitleDisplayMode="always" id="2U0-H1-aau"/>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="h07-MZ-8uU" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
